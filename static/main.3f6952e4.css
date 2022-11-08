@@ -3642,7 +3642,7 @@ tbody.collapse.in {
 }
 @media (min-width: 768px) {
   .navbar-nav {
-    float: left;
+    float: righ;
     margin: 0;
   }
   .navbar-nav > li {
@@ -4583,7 +4583,7 @@ button.close {
     display: inline-block !important;
   }
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 40px) and (max-width: 1199px) {
   .visible-md {
     display: block !important;
   }
